@@ -69,7 +69,6 @@ cacheSolve <- function(x, ...) {
 
 ## For the Later Run , Inverse matrix is loaded from cache
 ## > cacheSolve(m)
-## getting cached data.
 ##Retrieving from Cache.
 ##    [,1] [,2]
 ##[1,] -2.0  1.0
